@@ -3,7 +3,7 @@
 - <//>
 ---
 ### 🌐 Social:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kiraii_i) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PlayerReboot) 
 
 ---
 ## 💻 Languages and Tools:
