@@ -1,4 +1,4 @@
-## Hello, my name is Eyad `AKA` Kiraii <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+## Hello, welcome to Player Reboot profile<img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=there+is+nothing+here+%E2%9C%A8;Check+out+kiraii-i.github.io)](https://kiraii-i.github.io)
 - <//>
 ---
