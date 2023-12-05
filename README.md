@@ -2,10 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=welcome+to+our+github+%E2%9C%A8;Check+out+player-reboot.github.io)](https://kiraii-i.github.io)
 - <//>
 ---
-### 🌐 Social: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PlayerReboot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/player.reboot)
-<a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a> 
+### 🌐 Social:
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PlayerReboot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/player.reboot)[https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://alsiam.com)
 
 ---
 ## 💻 
