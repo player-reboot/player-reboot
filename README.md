@@ -30,7 +30,7 @@
 - <//>
 ---
 ### 🌐 Social:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kiraii_i) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kiraii_i)[![](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white)](https://visitcount.itsvg.in)
 
 ---
 ## 💻 Languages and Tools:
@@ -48,6 +48,6 @@
 </a>
 
 ---
- [![](https://visitcount.itsvg.in/api?id=kiraii-i&icon=2&color=12)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=player-reboot&icon=2&color=12)](https://visitcount.itsvg.in)
    
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
